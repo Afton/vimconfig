@@ -2,7 +2,7 @@ set nocp
 set ts=4
 set sw=4
 set expandtab
-colo peachpuff
+colo blackdust
 set number
 set guifont="Lucinda_Sans_Typewriter:h12:cDEFAULT"
 set backspace=2 "make backspace work over line-breaks and insert-mode starts
