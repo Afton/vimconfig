@@ -1,0 +1,2 @@
+ln -s vimconfig/_vimrc ~/.vimrc
+ln -s vimconfig/vimfiles/ ~/.vim
