@@ -5,6 +5,5 @@ No seriously. I've been using Vim for too long without paying much attention to 
 
 I'm using github to share across machines. 
 
-Things for me to remember if I start a new machine
-make a link from %userprofile%\_vimrc to %userprofile%\path\to\vimconfig\_vimrc
-and from %userprofile%\vimfiles to %userprofile%\path\to\vimconfig\vimfiles
+Setup directory contains the scripts to make it all work nicely across machines
+

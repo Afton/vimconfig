@@ -16,7 +16,18 @@ filetype plugin indent on
 set ai
 set si
 
-set directory^=~/temp,$HOME/Local\ Settings/Temp
+" Got tired of these, and have never had them be helpful. 
+" I may come to regret this, and if so, I can have them write to a temp
+" location
+set nobackup
+set nowritebackup
+set noswapfile
+
+if has("win32")
+    " nothing here
+else
+    " nothing here
+endif
 autocmd BufReadPre //* :NoMatchParen
 
 
